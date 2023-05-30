@@ -10,5 +10,9 @@ printf("Bob");
 9 int main(){
 imprimirBob();
 10
-11 return 0; 
+11 return 0;
+
+4 void imprimirBob(){
+printf("Bob");
+
 12}
